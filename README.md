@@ -1,16 +1,10 @@
-# budget_sys
+# Personal Budget Fluter App
 
-A new Flutter project.
+The budget app is a user-friendly application developed with Flutter and Firebase, designed to help users manage their finances efficiently. Users can easily add, view, and edit budget details such as categories, total budgets, and spending amounts. The app features a modern interface with smooth animations and real-time data updates, making it a practical tool for tracking and controlling expenses.
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/b7b7f382-8a69-4bb9-a978-61cf0afd36fb)              ![image](https://github.com/user-attachments/assets/fda2ad39-8f55-4582-816a-12c3fa221634)
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/user-attachments/assets/b794d37e-1e0f-4c60-8154-c6e5ed724d40)              ![image](https://github.com/user-attachments/assets/c01fcf23-6431-46eb-a429-518684ac8793)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ 
+    
